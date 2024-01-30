@@ -4,6 +4,8 @@
 
 ### Q4
 
+Create a Java program that utilizes multiple threads to sort an array of integers.
+
 #### Running the file
 
 Run the following commands in the terminal of the root folder `210101042_Lab1`: 
