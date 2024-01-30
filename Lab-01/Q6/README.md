@@ -4,6 +4,8 @@
 
 ### Q6
 
+Develop a Java program that employs multiple threads to calculate the sum of all prime numbers up to a specified limit. 
+
 #### Running the file
 Run the following commands in the terminal of the root folder `210101042_Lab1`: 
 
