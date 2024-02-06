@@ -60,6 +60,7 @@ The output consists of:
 Fig. 1: Simulation of various hits and misses.
 
 ![output-2](./assets/output-2.png)
+
 Fig. 2: Statistics of writes and hits.
 
 # Note
