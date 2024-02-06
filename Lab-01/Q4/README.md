@@ -8,7 +8,7 @@ Create a Java program that utilizes multiple threads to sort an array of integer
 
 #### Running the file
 
-Run the following commands in the terminal of the root folder `210101042_Lab1`: 
+Run the following commands in the terminal of the root folder project folder: 
 
 ```
 javac Q4/Q4.java
