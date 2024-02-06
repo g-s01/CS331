@@ -58,4 +58,8 @@ Figure-1: Output when `changeN` is `1`
 
 Figure-2, 3: Output when `changeN` is `0` 
 
+* Note
+
+One can always change the code to take the initial value of the `sharedIntegerCounter` also as input :)
+
 Credits - [Gautam Sharma](https://g-s01.github.io/)
