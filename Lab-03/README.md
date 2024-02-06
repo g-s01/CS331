@@ -22,7 +22,7 @@ Remember, this is a complex task that requires careful design and testing. It’
 
 #### Running the file
 
-Run the following commands in the terminal of the root folder `210101042_L3`: 
+Run the following commands in the terminal of the root folder: 
 
 ```
 javac Main.java
