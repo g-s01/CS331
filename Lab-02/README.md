@@ -14,7 +14,7 @@ Consider a scenario where multiple threads need to update a shared counter concu
 
 #### Running the file
 
-Run the following commands in the terminal of the root folder `210101042_L2`: 
+Run the following commands in the terminal of the root folder: 
 
 ```
 javac Main.java
