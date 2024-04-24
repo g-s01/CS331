@@ -29,7 +29,7 @@ java Main
 2. Initial size of the `orders` database.
 3. Number of transactions on the database.
 
-![Input](/assets/input.png)
+![Input](./assets/input.png)
 
 Fig. 1: Sample Input
 
@@ -42,15 +42,15 @@ The output consists of:
 3. Simulation of Write on `users`
 4. Simulation of Write on `orders`
 
-![Initialization of the database](/assets/db-init.png)
+![Initialization of the database](./assets/db-init.png)
 
 Fig. 2: Initialization of the `users` and `orders` database
 
-![Transactions on the users database](/assets/user-output.png)
+![Transactions on the users database](./assets/user-output.png)
 
 Fig. 3: Transaction on the `users` database
 
-![Transaction on the orders database](/assets/order-output.png)
+![Transaction on the orders database](./assets/order-output.png)
 
 Fig. 4: Transaction on the `orders` database
 
